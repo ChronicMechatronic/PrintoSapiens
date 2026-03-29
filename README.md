@@ -3,7 +3,9 @@
 ![alt text](https://github.com/ChronicMechatronic/PrintoSapiens/blob/main/renders/PrintoSapiens.png)
 
 ## A cool-looking, low-cost, modern(ish) bedslinger 3D printer that can be built using parts from an older i3-style machine
-**Update 11/2025:** I updated the CAD source file and added STLs for the first batch of printable parts as well as engineering drawings for the base. Might add DXFs later if I can find the time.\
+**Update 3/2026:**
+
+Bigger update of the CAD source file and added STEPS and STLs for the new batch of printable parts as well as drawings for the top crossbar and printout template for the Z-stepper raft. The Z-shoes already got a facelift to make them look better and printable without support. I added a hex cap to the lead screw pulleys to make tightening them less of a chore than in the video. The Z-pillar nut retainer I showed in the first episode was also overhauled and now includes recesses to hold the washers, similar to how I did it for the smaller nut retainer inside the top crossbar. Lots of general QOL improvements in the assembly; hardware was added, and some of the other parts changed slightly.\
 Download the [FreeCAD file](https://drive.google.com/file/d/16oUMGvnlRqHtTNbWmS9C6yU7JHYZHUGY/view?usp=sharing) or [STEP assembly](https://drive.google.com/file/d/1Rc-gUZN0Lh5QLSH7OIJOY7BAhNWv18Eq/view?usp=sharing)
 
 Note: many of the off-the-shelf components in this model (like the PSU, controller board, filament spool, etc.) I obviously didn't recreate in CAD myself; they're all downloaded from GrabCAD. No idea what the license situation is like over there, so maybe consider this license here valid only for the overall printer design and the parts I modeled personally, not the third-party assets.\
